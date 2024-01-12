@@ -15,7 +15,7 @@ This project utilizes Long Short-Term Memory (LSTM) neural networks for time ser
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sales-forecast-lstm.git
+   https://github.com/ismail-hamdach/RNN-LSTM-Sales-Predictor.git
    ```
 
 2. **Install Dependencies:**
@@ -29,3 +29,4 @@ This project utilizes Long Short-Term Memory (LSTM) neural networks for time ser
 ### Contributing
 
 Contributions are welcome! If you have ideas for improvements, feature requests, or find any issues, feel free to open an issue or create a pull request.
+"# RNN-LSTM-Sales-Predictor" 
